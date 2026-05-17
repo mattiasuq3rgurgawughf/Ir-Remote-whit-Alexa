@@ -86,6 +86,6 @@ Parlante      Previous     Panasonic   0x40040538E1DC    48 Bits
 - Sinric Pro
 - IRremoteESP8266
 
-# Conlcusion:
+# Conclusion:
 
 Proyecto desarrollado por estudiante universitaria como aplicación práctica de automatización IoT y control inteligente mediante señales infrarrojas.
