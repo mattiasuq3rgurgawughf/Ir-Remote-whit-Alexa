@@ -10,15 +10,15 @@
 #include <ir_Coolix.h>
 
 // ─── WiFi ────────────────────────────────────────────
-#define WIFI_SSID   "Mattias"
-#define WIFI_PASS   "12345678"
+#define WIFI_SSID   "********"
+#define WIFI_PASS   "********"
 
 // ─── SinricPro ───────────────────────────────────────
-#define APP_KEY    "de9a3553-c39f-4450-8b4c-0290897f4018"
-#define APP_SECRET "a31774a7-a48a-4086-b435-f0f15c57351c-c9c45d35-eb75-4d82-a8f0-93548b45983b"
-#define TV_ID      "69f1a488a221de7879403ed2"
-#define SPEAKER_ID "69fc006ef9b5f15fa7cf1fad"
-#define AC_ID      "69fbff75baa50bf9bf2d9abd"
+#define APP_KEY    "********"
+#define APP_SECRET "********"
+#define TV_ID      "********"
+#define SPEAKER_ID "********"
+#define AC_ID      "********"
 
 // ─── Pines IR ────────────────────────────────────────
 #define IR_SEND_PIN 26
